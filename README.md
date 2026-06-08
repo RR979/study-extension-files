@@ -1,2 +1,2 @@
-# study-extension-privacy-policy
-This is the privacy policy for the study extension listed on the chrome webstore
+# study-extension-files
+This contains open source files and the privacy policy for the study extension listed on the chrome webstore
